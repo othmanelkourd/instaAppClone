@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.othman.instaappclone.R
+import com.othman.instaappclone.ui.add.NotificationsViewModel
 
 class NotificationsFragment : Fragment() {
 
